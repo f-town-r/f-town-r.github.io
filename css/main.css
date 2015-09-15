@@ -1,3 +1,8 @@
 p {
   color:#B82387;
 }
+
+.selected {
+  background-color: A87111;
+  font-family: Courier, Times, Cursive;
+}
